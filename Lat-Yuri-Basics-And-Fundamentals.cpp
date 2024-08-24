@@ -29,6 +29,9 @@ int main()
 	int sizeOne, sizeTwo;
 	
 	// First array *************************************************************************************
+
+    cout << "An edited version for the second-branch" << endl << endl;
+
 	cout << "Enter the number of elements for the first array (max: 10): ";
 	cin >> sizeOne;
 	 	
